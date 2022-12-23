@@ -1,0 +1,3 @@
+D:/code/2022CompilationPrincipleLab/AssignmentComplier/cmake-build-debug/CMakeFiles/AssignmentComplier.dir
+D:/code/2022CompilationPrincipleLab/AssignmentComplier/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code/2022CompilationPrincipleLab/AssignmentComplier/cmake-build-debug/CMakeFiles/rebuild_cache.dir
